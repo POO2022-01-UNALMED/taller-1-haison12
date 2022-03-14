@@ -1,0 +1,1 @@
+Ahora si puedo hacer el commit porque agregue un archivo a la carpeta lo cual me permitio hacer el commit correctamente!
