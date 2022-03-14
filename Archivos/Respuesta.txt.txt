@@ -1,0 +1,1 @@
+Al tratar de hacer el commit ocurrio un error porque la carpeta esta vacia y el github no permite hacer commit sobre carpetas vacias.
